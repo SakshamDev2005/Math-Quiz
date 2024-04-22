@@ -2,7 +2,7 @@
 
 A math quiz program that:
 
-Prompts the user for a level, . If the user does not input 1, 2, or 3, the program prompts again.
+Prompts the user for a level. If the user does not input 1, 2, or 3, the program prompts again.
 
 Randomly generates ten (10) math problems of addition according to the level set by the user
 
